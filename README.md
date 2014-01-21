@@ -221,3 +221,7 @@ I'm available for freelance work. Remote worldwide or locally around Central Eur
 ## GitHub stats (by BitDeli)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-login/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/adityapooniya/php-login/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
